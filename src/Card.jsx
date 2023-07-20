@@ -1,5 +1,7 @@
 import React from "react";
 
+// Pass in the item object from App.jsx and then
+// Use those props for dynamically rendering data
 export default function Card({ item }) {
   return (
     <>
